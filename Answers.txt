@@ -4,3 +4,4 @@ Problem003: 6857
 Problem004: 906609
 Problem005: 232792560
 Problem006: 25164150
+Problem007: 104743
