@@ -17,3 +17,4 @@ Problem016: 1366
 Problem017: 21124
 Problem018: 1074
 Problem019: 171
+Problem020: 648
