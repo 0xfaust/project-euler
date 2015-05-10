@@ -33,4 +33,4 @@ while len(str(c)) <= 999:
     a, b = b, c
     d += 1
 
-print d
+print (d)
