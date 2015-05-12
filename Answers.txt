@@ -25,3 +25,4 @@ Problem024: 2783915460
 Problem025: 4782
 Problem026: 983
 Problem027: -59231
+Problem028: 669171001
