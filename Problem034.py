@@ -26,4 +26,4 @@ def factorion_sum(num, factorial_sum):
             total += factorion_sum(new, new_sum)
     return total
 
-print sum(factorion_sum(i, factorials[i]) for i in range(1, 10))
+print (sum(factorion_sum(i, factorials[i]) for i in range(1, 10)))
